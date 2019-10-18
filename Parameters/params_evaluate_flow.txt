@@ -1,0 +1,15 @@
+FRC        2.63
+constrict  1.0
+T_interval 4.0
+Gdirn      2
+press_in   0.0
+COV        0.2
+RMaxMean   1.29
+RMinMean   0.79
+i_to_e_ratio 1.0
+refvol     0.5
+volume_target 0.375570e+6
+pmus_step  -196.133
+expiration_type active
+chest_wall_compliance 2039.4324
+emphysema_threshold 0.049
